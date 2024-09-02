@@ -118,6 +118,7 @@ nav ul li a {
   height: 40px; /* Height of the overlay bar */
   background-color: black;
   z-index: 10; /* Ensure it's on top of the iframe */
+  pointer-events: none; /* Allow interaction with elements behind the overlay */
 }
 
 
