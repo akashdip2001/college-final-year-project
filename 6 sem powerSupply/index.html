@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Project Showcase</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- Preloader -->
+    <div id="preloader">
+      <div class="loader">
+        <!-- You can use SVG or text for the animation -->
+        <div class="power-icon"></div>
+        <p>Loading...</p>
+      </div>
+    </div>
+
+    <!-- Navbar -->
+    <nav>
+      <div class="logo">MyProject</div>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    <!-- Video Section -->
+    <section style="padding: 0" id="home">
+      <div class="video-background">
+        <iframe
+          src="https://www.youtube.com/embed/BBN9E7Ih5lY?autoplay=1&mute=1&loop=1&playlist=BBN9E7Ih5lY"
+          frameborder="0"
+          allow="autoplay; fullscreen"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </section>
+
+    <!-- About Section -->
+    <section style="text-align: left" id="about">
+      <h2>About the Project</h2>
+      <p>
+        AC to DC converter with voltage regulator - At the very first we
+        connected a step down transformer which converts ~250 voltage to 18
+        voltage (AC) , then connects a bridge rectifier (using diodes 1N4007)
+        which converts AC to DC with a capacitor (4700 uf 25 voltage) to
+        stabilize the DC voltage, after this we connect a Red LED (with 1 Kohm
+        .25 Watt) to identify the above circuit works good. After the red LED we
+        connect a Potentiometer (1 Kohm) & a mosfade (100Kohm IRFZ44N) to
+        regulate the voltage and this place you also connect the display to
+        observe the live voltage. The negative side of the electrode used in
+        voltameter represents the cathode , and the opposite electrode
+        represents the anode
+      </p>
+    </section>
+
+    <!-- Gallery Section -->
+    <section id="gallery">
+      <h2>Project Gallery</h2>
+      <div class="gallery">
+        <!-- Add your image URLs in the src attribute -->
+        <img src="img/power (14).jpg" alt="Project Image 1" />
+        <img src="img/power (15).jpg" alt="Project Image 2" />
+        <img src="img/power (16).jpg" alt="Project Image 3" />
+        <img src="img/power (17).jpg" alt="Project Image 4" />
+        <img src="img/power (18).jpg" alt="Project Image 4" />
+        <img src="img/power (19).jpg" alt="Project Image 4" />
+
+        <img src="img/power (1).jpg" alt="Project Image 1" />
+        <img src="img/power (2).jpg" alt="Project Image 2" />
+        <img src="img/power (3).jpg" alt="Project Image 3" />
+        <img src="img/power (4).jpg" alt="Project Image 4" />
+        <img src="img/power (5).jpg" alt="Project Image 4" />
+        <img src="img/power (6).jpg" alt="Project Image 4" />
+        <img src="img/power (7).jpg" alt="Project Image 1" />
+        <img src="img/power (8).jpg" alt="Project Image 2" />
+        <img src="img/power (9).jpg" alt="Project Image 3" />
+        <img src="img/power (10).jpg" alt="Project Image 4" />
+        <img src="img/power (11).jpg" alt="Project Image 4" />
+        <img src="img/power (12).jpg" alt="Project Image 4" />
+        <img src="img/power (13).jpg" alt="Project Image 1" />
+
+        <!-- Add more images as needed -->
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id="contact">
+      <p>&copy; 2024, AKASHDIP MAHAPATRA. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
