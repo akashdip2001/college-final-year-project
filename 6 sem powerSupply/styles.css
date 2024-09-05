@@ -129,9 +129,64 @@ section {
 
 #about {
   background-color: rgba(0, 0, 0, 0.5);
-  margin-top: 2cap;
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
+.about-text {
+  flex-direction: column;
+  max-width: 80%; /* Optional: Adjust width as needed */
+}
+
+
+.slider {
+    position: relative;
+    max-width: 800px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+iframe {
+    width: 100%;
+    height: 450px; /* Adjust the height as needed */
+    border: none;
+}
+
+button {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 100;
+}
+
+.prev {
+    left: 0;
+}
+
+.next {
+    right: 0;
+}
+
+/* Slider video wrapper */
+
+/* gallary */
 #gallery {
   background-color: rgba(0, 0, 0, 0.7);
   padding: 2rem 0;
