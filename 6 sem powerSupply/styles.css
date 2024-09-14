@@ -96,8 +96,9 @@ nav ul li a:hover {
 /* Video Background Styling */
 .video-background {
   position: relative;
+  top: -86px;
   width: 100%;
-  height: 100vh;
+  height: 60vh;
   overflow: hidden;
 }
 
@@ -128,7 +129,7 @@ iframe {
 /* About Section Styling */
 #about {
   background-color: rgba(0, 0, 0, 0.5);
-  padding: 4rem 2rem;
+  padding: 1rem 2rem;
   text-align: left;
   display: flex;
   flex-direction: column;
@@ -207,12 +208,37 @@ button {
   .slider iframe {
     height: 300px; /* Adjust for smaller screens */
   }
+
+  .video-background {
+    position: relative;
+    top: -155px;
+    width: 100%;
+    height: 52vh;
+    overflow: hidden;
 }
+
+.gallery img {
+  width: calc(50% - 1rem);
+}
+}
+
 
 @media (max-width: 480px) {
   .slider iframe {
     height: 200px; /* Adjust for very small screens */
   }
+
+  .video-background {
+    position: relative;
+    top: -155px;
+    width: 100%;
+    height: 52vh;
+    overflow: hidden;
+}
+
+.gallery img {
+  width: 100%;
+}
 }
 
 /* Gallery Section Styling */
@@ -250,15 +276,3 @@ footer a:hover {
   text-decoration: underline;
 }
 
-/* Ensure proper spacing and alignment on small screens */
-@media (max-width: 768px) {
-  .gallery img {
-    width: calc(50% - 1rem);
-  }
-}
-
-@media (max-width: 480px) {
-  .gallery img {
-    width: 100%;
-  }
-}
