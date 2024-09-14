@@ -126,6 +126,11 @@ iframe {
   background: rgba(0, 0, 0, 0.3);
 }
 
+.top-video {
+  padding: 0;
+  height: 455px;
+}
+
 /* About Section Styling */
 #about {
   background-color: rgba(0, 0, 0, 0.5);
@@ -217,7 +222,10 @@ button {
     overflow: hidden;
 }
 
-
+.top-video {
+  padding: 0;
+  height: 305px;
+}
 }
 
 
@@ -234,7 +242,10 @@ button {
     overflow: hidden;
 }
 
-
+.top-video {
+  padding: 0;
+  height: 305px;
+}
 }
 
 /* Gallery Section Styling */
