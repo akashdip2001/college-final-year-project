@@ -297,3 +297,8 @@ footer a:hover {
   }
 }
 
+@media (max-width: 375px){
+  .video-background{
+    height: 69vh;
+  }
+}
