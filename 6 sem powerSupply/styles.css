@@ -299,6 +299,8 @@ footer a:hover {
 
 @media (max-width: 375px){
   .video-background{
+    top: -180px;
     height: 69vh;
   }
 }
+
