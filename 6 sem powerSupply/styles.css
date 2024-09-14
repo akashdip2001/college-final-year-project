@@ -217,9 +217,7 @@ button {
     overflow: hidden;
 }
 
-.gallery img {
-  width: calc(50% - 1rem);
-}
+
 }
 
 
@@ -236,9 +234,7 @@ button {
     overflow: hidden;
 }
 
-.gallery img {
-  width: 100%;
-}
+
 }
 
 /* Gallery Section Styling */
@@ -274,5 +270,19 @@ footer a {
 
 footer a:hover {
   text-decoration: underline;
+}
+
+@media (max-width: 738px){
+
+  .gallery img {
+    width: calc(50% - 1rem);
+  }
+}
+
+@media (max-width: 480px){
+
+  .gallery img {
+    width: 100%;
+  }
 }
 
