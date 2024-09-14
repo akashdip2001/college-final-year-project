@@ -302,5 +302,9 @@ footer a:hover {
     top: -180px;
     height: 69vh;
   }
+  .cost-info{
+    padding-top: 30px;
+  }
 }
+
 
