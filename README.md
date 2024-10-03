@@ -4,7 +4,7 @@
 ### -  Anode - Mild Steel
 ### -  Time - 1h
 
-![](https://i.imgur.com/waxVImv.png)
+![](img/colour_line.png)
 
 ### Day 1
     Current: 0.01 amp 
