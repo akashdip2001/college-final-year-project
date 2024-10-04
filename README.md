@@ -17,8 +17,7 @@
 --- 
 
 ### Day_2 `(17 aug, 2024)` 
-    Current: 0.20 amp
-    Electrolyte: NiSo4 . 6 H2o
+    No Data collecting by me (Not present)
 
 <p align="center">
   <img src="img/Day_2 watsApp (1).jpg" alt="Image 1" width="250" style="margin-right: 10px;"/>
