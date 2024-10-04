@@ -196,11 +196,11 @@ button {
 }
 
 .prev {
-  left: 0;
+  left: 5px;
 }
 
 .next {
-  right: 0;
+  right: 25px;
 }
 
 .slider-info {
