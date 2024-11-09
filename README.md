@@ -71,7 +71,7 @@
     Current: 0.13 amp (5.9 V) ---> +- circuit complete (During the process)
     Electrolyte: NiSo4       - 10 gram/l
                  Oxalic acid - 10 gram/l
-    200 ml of Distilled Water
+    200 ml of: Distilled Water
 
     initial weight: 3.418 g (⚠️ before acid cleaning)
     final weight: 3.314 g
