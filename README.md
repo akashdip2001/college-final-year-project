@@ -1,4 +1,6 @@
 # Lab Experiments
+---
+---
 ## Contents
 
 1. [Day 01](#day01) ❌ unsuccessful
@@ -6,6 +8,9 @@
 3. [Day 03](#day03) ❌ unsuccessful
 4. [Day 04](#day04) ❌ unsuccessful
 5. [Day 05](#day05) ✅ successful
+
+---
+---
 
 ### - Cathode - Nikhil ( 1cm X 2.54cm ) 
     clean - Ni with N/5 HCL
