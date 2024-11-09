@@ -15,6 +15,7 @@
 </p>
 
 --- 
+![](img/colour_line.png)
 
 ### Day_2 `(17 aug, 2024)` 
     No Data collecting by me (Not present)
@@ -25,6 +26,7 @@
 </p>
 
 ---
+![](img/colour_line.png)
 
 ### Day_3
     Current: 0.20 amp
@@ -37,6 +39,7 @@
 </p>
 
 ---
+![](img/colour_line.png)
 
 ### Day_4
     voltave: 5.8 V
@@ -58,7 +61,40 @@
 </p>
 
 ---
+![](img/colour_line.png)
 
+### Day_5 ✅
+    voltave: 11.8 V (When amp=0.00 ---> +- circuit not complete)
+    Current: 0.13 amp (5.9 V) ---> +- circuit complete (During the process)
+    Electrolyte: NiSo4       - 10 gram/l
+                 Oxalic acid - 10 gram/l
+    200 ml of Distilled Water
+
+    initial weight: 3.418 g (⚠️ before acid cleaning)
+    final weight: 3.314 g
+
+<p align="center">
+  <img src="img/Day5_01.jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
+  <img src="img/Day5_03.jpg" alt="Image 2" width="300" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="img/Day5_05.jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
+  <img src="img/Day5_06.jpg" alt="Image 2" width="300" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="img/Day5_04.jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
+  <img src="img/Day5_02.jpg" alt="Image 2" width="300" style="margin-left: 10px;"/>
+</p>
+
+### After 45 min. the cuttent sudenly increse because of the resistance in the solution goes-down. When it's happens we Shut-down the process.
+
+<p align="center">
+  <img src="img/Day5_07.jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
+  <img src="img/Day5_08.jpg" alt="Image 2" width="300" style="margin-left: 10px;"/>
+</p>
+
+---
+![](img/colour_line.png)
 
 
 
