@@ -307,4 +307,10 @@ footer a:hover {
   }
 }
 
+@media (max-width: 380px) {
+.slider {
+  margin: none;
+}
+}
+
 
