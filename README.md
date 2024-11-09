@@ -1,4 +1,12 @@
 # Lab Experiments
+## Contents
+
+1. [Day 01](#day01) ❌ unsuccessful
+2. [Day 02](#day02) ✅ successful
+3. [Day 03](#day03) ❌ unsuccessful
+4. [Day 04](#day04) ❌ unsuccessful
+5. [Day 05](#day05) ✅ successful
+
 ### - Cathode - Nikhil ( 1cm X 2.54cm ) 
     clean - Ni with N/5 HCL
 ### -  Anode - Mild Steel
@@ -6,7 +14,7 @@
 
 ![](img/colour_line.png)
 
-### Day_1 `(4 aug,2024)` [img links](https://drive.google.com/drive/folders/12OxyIdVQMnPZkIQ5KKH9a0IItj3Jc1YW)
+### Day_1 `(4 aug,2024)` [img links](https://drive.google.com/drive/folders/12OxyIdVQMnPZkIQ5KKH9a0IItj3Jc1YW) <a name="day01"></a>
     Current: 0.01 amp 
 
 <p align="center">
@@ -17,7 +25,7 @@
 --- 
 ![](img/colour_line.png)
 
-### Day_2 `(17 aug, 2024)` 
+### Day_2 `(17 aug, 2024)` <a name="day02"></a>
     No Data collecting by me (Not present)
 
 <p align="center">
@@ -26,9 +34,9 @@
 </p>
 
 ---
-![](img/colour_line.png)
+![](img/colour_line.png) 
 
-### Day_3
+### Day_3 <a name="day03"></a>
 ```go
     Current: 0.20 amp
     Electrolyte: NiSo4 . 6 H2o
@@ -42,7 +50,7 @@
 ---
 ![](img/colour_line.png)
 
-### Day_4
+### Day_4 <a name="day04"></a>
 ```go
     voltave: 5.8 V
     Current: 0.16 amp (5.3 V)
@@ -65,7 +73,7 @@
 ---
 ![](img/colour_line.png)
 
-### Day_5 ✅
+### Day_5 ✅ <a name="day05"></a>
 ```yaml
     voltave: 11.8 V (When amp=0.00 ---> +- circuit not complete)
     Current: 0.13 amp (5.9 V) ---> +- circuit complete (During the process)
