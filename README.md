@@ -1,3 +1,5 @@
+<img align="right" alt="python_logo" width="550" src="img/Day_3 (3).JPG"> 
+
 # Lab Experiments
 ---
 ---
