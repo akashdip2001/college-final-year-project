@@ -29,9 +29,10 @@
 ![](img/colour_line.png)
 
 ### Day_3
+```go
     Current: 0.20 amp
     Electrolyte: NiSo4 . 6 H2o
-
+```
 <p align="center">
   <img src="img/Day_2 (1).jpg" alt="Image 1" width="330" style="margin-right: 10px;"/>
   <img src="img/Day_2 (2).jpg" alt="Image 2" width="250" style="margin-right: 10px;"/>
@@ -42,11 +43,12 @@
 ![](img/colour_line.png)
 
 ### Day_4
+```go
     voltave: 5.8 V
     Current: 0.16 amp (5.3 V)
     Electrolyte: NiSo4 . 6 H2o - 12 gram
     200 ml of Distilled Water
-
+```
 #### When Start : Waight of Ni -  g
 <p align="center">
   <img src="img/Day_3 (1).jpg" alt="Image 1" width="250" style="margin-right: 10px;"/>
@@ -64,6 +66,7 @@
 ![](img/colour_line.png)
 
 ### Day_5 ✅
+```yaml
     voltave: 11.8 V (When amp=0.00 ---> +- circuit not complete)
     Current: 0.13 amp (5.9 V) ---> +- circuit complete (During the process)
     Electrolyte: NiSo4       - 10 gram/l
@@ -72,7 +75,7 @@
 
     initial weight: 3.418 g (⚠️ before acid cleaning)
     final weight: 3.314 g
-
+```
 <p align="center">
   <img src="img/Day5_01.jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
   <img src="img/Day5_03.jpg" alt="Image 2" width="300" style="margin-left: 10px;"/>
