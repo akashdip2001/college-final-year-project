@@ -114,8 +114,15 @@
 ---
 ![](img/colour_line.png)
 
-| [md -> html](https://codebeautify.org/markdown-to-html) |
-| --- |
+<details>	
+ <summary><b>links 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+    
+| [md -> html](https://codebeautify.org/markdown-to-html) | [githup pg](https://college-final-year-project.netlify.app/readme.html) | [Netlify](https://college-final-year-project.netlify.app/readme.html) |
+| --- | --- | --- |
+
+</div>
+</details>
 
 
 
