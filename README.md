@@ -10,6 +10,7 @@
 3. [Day 03](#day03) ❌ unsuccessful
 4. [Day 04](#day04) ❌ unsuccessful
 5. [Day 05](#day05) ✅ successful
+6. [Day 06](#day06) ✅ successful
 
 ---
 ---
@@ -123,6 +124,34 @@
 
 </div>
 </details>
+
+---
+![](img/colour_line.png)
+
+### Day_6 ✅ <a name="day06"></a>
+
+<p align="center">
+  <img src="img/Day_6 (1).jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
+  <img src="img/Day_6 (2).jpg" alt="Image 2" width="300" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="img/Day_6 (3).jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
+  <img src="img/Day_6 (4).jpg" alt="Image 2" width="300" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="img/Day_6 (5).jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
+  <img src="img/Day_6 (6).jpg" alt="Image 2" width="300" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="img/Day_6 (7).jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
+  <img src="img/Day_6 (8).jpg" alt="Image 2" width="300" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="img/Day_6 (9).jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
+<!--   <img src="img/Day_6 (8).jpg" alt="Image 2" width="300" style="margin-left: 10px;"/> -->
+</p>
+
+
 
 
 
