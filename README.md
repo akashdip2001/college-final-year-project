@@ -131,24 +131,20 @@
 ### Day_6 ✅ <a name="day06"></a>
 
 <p align="center">
-  <img src="img/Day_6 (1).jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
-  <img src="img/Day_6 (2).jpg" alt="Image 2" width="300" style="margin-left: 10px;"/>
+  <img src="img/Day_6 (1).jpg" alt="Image 1" width="200" style="margin-right: 10px;"/>
+  <img src="img/Day_6 (3).jpg" alt="Image 2" width="200" style="margin-left: 10px;"/>
 </p>
 <p align="center">
-  <img src="img/Day_6 (3).jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
-  <img src="img/Day_6 (4).jpg" alt="Image 2" width="300" style="margin-left: 10px;"/>
+  <img src="img/Day_6 (4).jpg" alt="Image 1" width="200" style="margin-right: 10px;"/>
+  <img src="img/Day_6 (5).jpg" alt="Image 2" width="200" style="margin-left: 10px;"/>
 </p>
 <p align="center">
-  <img src="img/Day_6 (5).jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
-  <img src="img/Day_6 (6).jpg" alt="Image 2" width="300" style="margin-left: 10px;"/>
+  <img src="img/Day_6 (6).jpg" alt="Image 1" width="150" style="margin-right: 10px;"/>
+  <img src="img/Day_6 (7).jpg" alt="Image 2" width="200" style="margin-left: 10px;"/>
 </p>
 <p align="center">
-  <img src="img/Day_6 (7).jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
-  <img src="img/Day_6 (8).jpg" alt="Image 2" width="300" style="margin-left: 10px;"/>
-</p>
-<p align="center">
-  <img src="img/Day_6 (9).jpg" alt="Image 1" width="300" style="margin-right: 10px;"/>
-<!--   <img src="img/Day_6 (8).jpg" alt="Image 2" width="300" style="margin-left: 10px;"/> -->
+  <img src="img/Day_6 (8).jpg" alt="Image 1" width="200" style="margin-right: 10px;"/>
+  <img src="img/Day_6 (9).jpg" alt="Image 2" width="200" style="margin-left: 10px;"/>
 </p>
 
 
