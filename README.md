@@ -150,7 +150,7 @@
 
 
 <details>	
- <summary><b>image Guide <img src="source/img_logo.png" width="20"/></b></summary><br>
+ <summary><b>image Guide 🛰️🚀</b></summary><br>
 
     🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️
 
