@@ -70,7 +70,82 @@
       margin: 5px 0;
     }
   }
+
+/* POPUP style */
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Popup styling */
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.popup-content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 500px;
+    width: 90%;
+    text-align: left;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transform: scale(0.8);
+    transition: transform 0.3s ease;
+}
+
+.popup-content h2 {
+    margin-top: 0;
+}
+
+.popup-content p {
+    line-height: 1.5;
+}
+
+/* Close button */
+.close-btn {
+    font-size: 24px;
+    color: black;
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    cursor: pointer;
+}
+
+/* Active popup state */
+.popup.visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.popup.visible .popup-content {
+    transform: scale(1);
+}
+
+/* Hidden state */
+.popup.hidden {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+}
+
 </style>
+  
 </head>
 <body>
 <h1 id="lab-experiments">Lab Experiments</h1>
@@ -196,3 +271,185 @@
 </br>
 
 <img src="https://akashdip2001.github.io/college-final-year-project/6%20sem%20powerSupply/img/power%20(1).jpg" alt="Image 1" width="100%" style="margin-right: 10px;"/>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Popup Example</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <button id="popupButton">Show Explanation</button>
+
+    <div id="popup" class="popup hidden">
+        <div class="popup-content">
+            <span class="close-btn">&times;</span>
+            <h2>Circuit Block Diagram & Explanation 🛰️🚀</h2>
+            <p>
+                <!-- Insert your detailed explanation content here -->
+                The complete explanation goes here...
+            </p>
+        </div>
+    </div>
+
+  <!-- POP UP -->
+
+  <details>
+        <summary><b>Circuit Block Diagram & Explanation 🛰️🚀</b></summary><br>
+
+        <p>🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️</p>
+
+        <h3>Project Explanation:</h3>
+        <b>Input Power:</b>
+        <ol>
+            <li>The circuit starts with an AC mains input of <b>230V at 50Hz (Indian frequency)</b>.</li>
+            <li>The input is connected to a <b>transformer</b> (rated for 230V to the desired secondary voltage and 1.5A capacity).  
+                <ul>
+                    <li>This step-down transformer reduces the voltage to a manageable level (as per your circuit design).</li>
+                </ul>
+            </li>
+        </ol>
+
+        <hr>
+        <b>Rectification Stage:</b>
+        <ol>
+            <li>The reduced AC voltage from the transformer is fed into a <b>full-wave rectifier circuit</b>, which is built using four <b>6A4 diodes</b> in a bridge configuration.  
+                <ul>
+                    <li>The rectifier converts AC to pulsating DC.</li>
+                </ul>
+            </li>
+        </ol>
+
+        <hr>
+        <b>Smoothing Stage:</b>
+        <ol>
+            <li>A <b>470μF capacitor (35V)</b> is connected after the rectifier to smoothen the pulsating DC into a stable DC output.  
+                <ul>
+                    <li>This capacitor filters out most of the ripples.</li>
+                </ul>
+            </li>
+        </ol>
+
+        <hr>
+        <b>Voltage Regulation Stage:</b>
+        <ol>
+            <li>The rectified and filtered DC is fed into <b>voltage regulator ICs (7815 and 7805)</b> for precise voltage outputs of <b>+15V</b> and <b>+5V</b>, respectively.  
+                <ul>
+                    <li>These ICs ensure stable voltage outputs for different components in the circuit.</li>
+                </ul>
+            </li>
+        </ol>
+
+        <hr>
+        <b>Cooling Mechanism:</b>
+        <ol>
+            <li>To prevent overheating of the components, a <b>heat sink</b> is attached to the voltage regulators. Additionally, a <b>cooling fan</b> is integrated to dissipate heat efficiently.</li>
+        </ol>
+
+        <hr>
+        <b>Output Stage:</b>
+        <ol>
+            <li>The circuit includes a <b>300W 10A 30V Buck Converter</b>, which adjusts the output voltage and current to meet the load's requirements.  
+                <ul>
+                    <li>This component handles high power efficiently but is limited by the <b>5-8A current range</b>, as exceeding this will cause the circuit to overheat or fail.</li>
+                </ul>
+            </li>
+        </ol>
+
+        <hr>
+        <h3>✅ Control and Switching System</h3>
+        <ol>
+            <li><b>Potentiometers (10kΩ):</b>  
+                <ul>
+                    <li><b>Purpose:</b> To regulate voltage and current for the electroplating process.</li>
+                    <li><b>Connections:</b>
+                        <ul>
+                            <li>One potentiometer controls the <b>voltage</b> output from the buck converter.</li>
+                            <li>The other potentiometer controls the <b>current</b> flowing to the output probes (alligator clips connected to the cathode and anode).</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><b>Black Switch:</b>  
+                <ul>
+                    <li><b>Purpose:</b> Master switch to turn the entire power supply system ON or OFF.</li>
+                    <li><b>Connection:</b> Connected to the <b>primary side of the transformer</b>. Switching it ON energizes the entire system.</li>
+                </ul>
+            </li>
+            <li><b>Red Switch:</b>  
+                <ul>
+                    <li><b>Purpose:</b> Controls the output probes (cathode and anode). It allows you to start or stop the electroplating process without turning off the whole system.</li>
+                    <li><b>Connection:</b> Placed on the output side after the buck converter, controlling power to the <b>alligator clips</b>.</li>
+                </ul>
+            </li>
+        </ol>
+
+        <h3>Display System</h3>
+        <ol>
+            <li><b>Digital Display (Voltmeter + Ammeter):</b>  
+                <ul>
+                    <li><b>Purpose:</b> Tracks the real-time voltage and current supplied to the electrolyte solution during the electroplating process.</li>
+                    <li><b>Connections:</b>  
+                        <ul>
+                            <li>Voltage input is taken from the <b>buck converter output</b>.</li>
+                            <li>Current is measured using a <b>shunt resistor</b> in series with the output probes.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ol>
+
+        <h3>LED Indicators</h3>
+        <ol>
+            <li><b>Red LED (Process Indicator):</b>  
+                <ul>
+                    <li><b>Purpose:</b> Indicates that the electroplating process has started, i.e., current is flowing through the electrolyte.</li>
+                    <li><b>Connection:</b>  
+                        <ul>
+                            <li>Connected in <b>series</b> with the electrolyte and the alligator clips.</li>
+                            <li>It lights up only when the circuit is complete, and current flows through the electrolyte solution.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ol>
+
+        <p>🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️</p>
+    </details>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+<script>
+// PopUp animation
+  
+  document.addEventListener("DOMContentLoaded", () => {
+    const popup = document.getElementById("popup");
+    const popupButton = document.getElementById("popupButton");
+    const closeButton = document.querySelector(".close-btn");
+
+    // Show popup
+    popupButton.addEventListener("click", () => {
+        popup.classList.remove("hidden");
+        popup.classList.add("visible");
+    });
+
+    // Close popup
+    closeButton.addEventListener("click", () => {
+        popup.classList.remove("visible");
+        popup.classList.add("hidden");
+    });
+
+    // Close popup when clicking outside the content
+    window.addEventListener("click", (event) => {
+        if (event.target === popup) {
+            popup.classList.remove("visible");
+            popup.classList.add("hidden");
+        }
+    });
+});
+</script>
