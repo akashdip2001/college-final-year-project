@@ -150,7 +150,7 @@
 
 
 <details>	
- <summary><b>image Guide 🛰️🚀</b></summary><br>
+ <summary><b>Circuit Block Diagram & Explane 🛰️🚀</b></summary><br>
 
     🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️
 
