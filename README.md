@@ -13,11 +13,69 @@
 6. [Day 06](#day06) ✅ successful
 
 ---
+
+# What we Do ?
+
+Mild steel is prone to rusting and corrosion because it lacks the natural resistance of stainless steel. Adding a nickel layer (through electroplating) enhances its corrosion resistance, durability, and appearance, making it more suitable for long-term use. This process is commonly done in industries to protect mild steel components.  
+
+So, **nickel plating on mild steel is a practical and widely used method to improve its properties.**
+
 ---
 
-### - Cathode - Nikhil ( 1cm X 2.54cm ) 
+# Whay use Mild Steel ?
+
+Using **mild steel with a nickel coating** instead of pure nickel is more practical and cost-effective for these reasons:  
+
+1. **Cost Efficiency**:  
+   - Mild steel is much cheaper than pure nickel, making it economical to use as a base material.  
+
+2. **Structural Strength**:  
+   - Mild steel provides high mechanical strength and durability, which nickel alone may lack.  
+
+3. **Corrosion Resistance**:  
+   - Nickel coating offers excellent corrosion resistance, protecting the mild steel underneath.  
+
+4. **Widespread Availability**:  
+   - Mild steel is easily available and can be enhanced with a thin nickel layer for long-term use.  
+
+Using pure nickel would be expensive and less practical for applications where the structural core of mild steel is sufficient.
+
+---
+
+# chemical reactions:  
+
+### **Setup**  
+- **Cathode (Negative)**: Mild steel  
+- **Anode (Positive)**: Nickel  
+- **Electrolyte**: NiSO₄ + Oxalic Acid in distilled water  
+
+---
+
+### **Reactions**  
+
+1. **At the Anode (Positive - Nickel)**:  
+   Nickel metal oxidizes to release **nickel ions** into the solution.  
+   \[
+   \text{Ni (s)} \rightarrow \text{Ni}^{2+} (aq) + 2e^-
+   \]  
+
+2. **At the Cathode (Negative - Mild Steel)**:  
+   Nickel ions from the solution are reduced and deposited as a metal layer on the mild steel.  
+   \[
+   \text{Ni}^{2+} (aq) + 2e^- \rightarrow \text{Ni (s)}
+   \]  
+
+3. **In the Solution (Electrolyte)**:  
+   Nickel ions (\( \text{Ni}^{2+} \)) are maintained by the electrolyte (NiSO₄), and oxalic acid enhances conductivity. The sulfate ions (\( \text{SO}_4^{2-} \)) balance the charge and complete the circuit.  
+
+
+This process ensures that nickel from the anode dissolves into the solution and is deposited onto the mild steel cathode, creating a nickel coating.
+
+---
+
+### - Anode - Nikhil ( 1cm X 2.54cm ) 
     clean - Ni with N/5 HCL
-### -  Anode - Mild Steel
+### - Cathode - Mild Steel
 ### -  Time - 1h
 
 ![](img/colour_line.png)
