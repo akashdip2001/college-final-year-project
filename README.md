@@ -60,9 +60,9 @@ This process ensures that nickel from the anode dissolves into the solution and 
 
 ---
 
-### - Anode - Nikhil ( 1cm X 2.54cm ) 
-    clean - Ni with N/5 HCL
 ### - Cathode - Mild Steel
+    clean - Ni with N/5 HCL
+### - Anode - Nikhil ( 1cm X 2.54cm ) 
 ### -  Time - 1h
 
 ![](img/colour_line.png)
