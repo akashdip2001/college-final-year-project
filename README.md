@@ -53,20 +53,7 @@ Using pure nickel would be expensive and less practical for applications where t
 
 ### **Reactions**  
 
-1. **At the Anode (Positive - Nickel)**:  
-   Nickel metal oxidizes to release **nickel ions** into the solution.  
-   \[
-   \text{Ni (s)} \rightarrow \text{Ni}^{2+} (aq) + 2e^-
-   \]  
-
-2. **At the Cathode (Negative - Mild Steel)**:  
-   Nickel ions from the solution are reduced and deposited as a metal layer on the mild steel.  
-   \[
-   \text{Ni}^{2+} (aq) + 2e^- \rightarrow \text{Ni (s)}
-   \]  
-
-3. **In the Solution (Electrolyte)**:  
-   Nickel ions (\( \text{Ni}^{2+} \)) are maintained by the electrolyte (NiSO₄), and oxalic acid enhances conductivity. The sulfate ions (\( \text{SO}_4^{2-} \)) balance the charge and complete the circuit.  
+![image](https://github.com/user-attachments/assets/82a31cc5-c770-4562-97ca-800d52acded8)
 
 
 This process ensures that nickel from the anode dissolves into the solution and is deposited onto the mild steel cathode, creating a nickel coating.
