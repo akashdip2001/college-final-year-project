@@ -1,7 +1,14 @@
 <img align="right" alt="python_logo" width="550" src="img/Day_3 (3).JPG"> 
 
-# Lab Experiments
 ---
+<!--
+### **Cathode (Negative)**: Mild steel
+### [**Cathode (Negative)**: Copper](#Cathode_Copper)
+-->
+
+<details>	
+ <summary><b>Using Mild steel as a Cathode</b></summary><br>
+   
 ---
 ## Contents
 
@@ -192,6 +199,64 @@ This process ensures that nickel from the anode dissolves into the solution and 
   <img src="img/Day_6 (9).jpg" alt="Image 2" width="240" style="margin-left: 10px;"/>
 </p>
 
+![](img/colour_line.png)
+![](img/colour_line.png)
+
+</details>
+   
+# Using Copper as a Cathode <a name="Cathode_Copper"></a>  
+## Contents
+
+1. [Day 01](#cu_day01) ✅ successful
+2. [Day 02](#cu_day02) 
+3. [Day 03](#cu_day03) 
+4. [Day 04](#cu_day04) 
+5. [Day 05](#cu_day05) 
+6. [Day 06](#cu_day06)
+7. [Day 06](#cu_day07)
+8. [Day 06](#cu_day08)
+
+---
+
+### **Setup**  
+- **Cathode (Negative)**: Copper 
+- **Anode (Positive)**: Nickel  
+- **Electrolyte**: NiSO₄ (6g/lit) + Oxalic Acid (2g/lit) in distilled water  
+
+---
+
+---
+
+### - Cathode - Copper (Width 10mm) 
+    clean - N/5 H2So4
+### - Anode - Nikhil
+### -  Time - 1h
+
+---
+
+### Day_1 ✅ <a name="cu_day01"></a>
+```yaml
+    voltave: 9 V (When amp=0.00 ---> +- circuit not complete)
+    Current: 0.2 amp (8.2 V) ---> +- circuit complete (During the process)
+    Electrolyte: NiSo4       - 2 gram/l (6/5 g/l)
+                 Oxalic acid - 2 gram/l (10/5)
+    200 ml of: Distilled Water
+
+    initial weight: 0.350 g (⚠️ before acid cleaning)
+    final weight: -- g
+```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f0c029d7-dea9-4994-aef0-cfba1381863e" alt="Image 1" width="200" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/a63a8203-f6fa-4ea9-8ab5-f67d7d4004eb" alt="Image 2" width="200" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2c8050a-d216-4286-8071-73cd3edc5e77" alt="Image 1" width="200" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/4bf4a1c1-d9d6-4d2d-b661-b76843327750" alt="Image 2" width="190" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+   
+  ![IMG20250219163930](https://github.com/user-attachments/assets/23eb8a8b-1d8f-40c6-ad6f-36e6c9b69393)
+</p>
 
 </br>
 </br>
@@ -317,4 +382,3 @@ As per your shared list, the total cost of the project is **₹3245**, including
 🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️
 
 </details>
-
