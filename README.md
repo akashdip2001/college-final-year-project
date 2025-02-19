@@ -246,12 +246,12 @@ This process ensures that nickel from the anode dissolves into the solution and 
     final weight: -- g
 ```
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f0c029d7-dea9-4994-aef0-cfba1381863e" alt="Image 1" width="200" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/a63a8203-f6fa-4ea9-8ab5-f67d7d4004eb" alt="Image 2" width="200" style="margin-left: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/f0c029d7-dea9-4994-aef0-cfba1381863e" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/a63a8203-f6fa-4ea9-8ab5-f67d7d4004eb" alt="Image 2" width="45%" style="margin-left: 10px;"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d2c8050a-d216-4286-8071-73cd3edc5e77" alt="Image 1" width="200" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/4bf4a1c1-d9d6-4d2d-b661-b76843327750" alt="Image 2" width="190" style="margin-left: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/d2c8050a-d216-4286-8071-73cd3edc5e77" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/4bf4a1c1-d9d6-4d2d-b661-b76843327750" alt="Image 2" width="45%" style="margin-left: 10px;"/>
 </p>
 <p align="center">
    
