@@ -207,6 +207,7 @@ This process ensures that nickel from the anode dissolves into the solution and 
 # Using Copper as a Cathode <a name="Cathode_Copper"></a>  
 ## Contents
 
+0. [Day 00](#cu_day00) 🌀 successful
 1. [Day 01](#cu_day01) ✅ successful
 2. [Day 02](#cu_day02) 
 3. [Day 03](#cu_day03) 
@@ -234,7 +235,7 @@ This process ensures that nickel from the anode dissolves into the solution and 
 
 ---
 
-### Day_1* 🌀 <a name="cu_day01"></a>
+### Day_0* 🌀 <a name="cu_day00"></a>
 ```yaml
     voltave: 9 V (When amp=0.00 ---> +- circuit not complete)
     Current: 0.2 amp (8.2 V) ---> +- circuit complete (During the process)
@@ -249,9 +250,16 @@ This process ensures that nickel from the anode dissolves into the solution and 
 
 ```
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/9babe2c4-aa37-41a1-bef7-c81f3219a96a" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/dc74407f-f85a-498f-bcbe-1d90c7ac6530" alt="Image 2" width="45%" style="margin-left: 10px;"/>
+</p>
+
+<details>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/f0c029d7-dea9-4994-aef0-cfba1381863e" alt="Image 1" width="45%" style="margin-right: 10px;"/>
   <img src="https://github.com/user-attachments/assets/a63a8203-f6fa-4ea9-8ab5-f67d7d4004eb" alt="Image 2" width="45%" style="margin-left: 10px;"/>
 </p>
+</details>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d2c8050a-d216-4286-8071-73cd3edc5e77" alt="Image 1" width="45%" style="margin-right: 10px;"/>
   <img src="https://github.com/user-attachments/assets/4bf4a1c1-d9d6-4d2d-b661-b76843327750" alt="Image 2" width="45%" style="margin-left: 10px;"/>
@@ -259,7 +267,24 @@ This process ensures that nickel from the anode dissolves into the solution and 
 <p align="center">
    
   ![IMG20250219163930](https://github.com/user-attachments/assets/23eb8a8b-1d8f-40c6-ad6f-36e6c9b69393)
+  
+  https://github.com/user-attachments/assets/d221fe5c-f915-406b-87ce-fbbe1aa765b1
+  
 </p>
+
+### Day_1* ✅ <a name="cu_day01"></a>
+```yaml
+    voltave: 9 V (When amp=0.00 ---> +- circuit not complete)
+    Current: 0.1 amp (5.4 V) ---> +- circuit complete (During the process)
+    Electrolyte: NiSo4       - 0.41 gram/200ml
+                 Oxalic acid - 0.41 gram/200ml
+    200 ml of: Distilled Water
+
+    initial weight: 0.336 g (⚠️ before acid cleaning)
+    final weight: 0.337 g
+
+* Just Test the System
+```
 
 </br>
 </br>
