@@ -329,7 +329,7 @@ As per your shared list, the total cost of the project is **₹3245**, including
 ## Contents
 
 0. [Day 00](#cu_day00) 🌀 successful
-1. [Day 01](#cu_day01) ✅ successful
+1. [Day 01](#cu_day01) ✅ successful (Taguchi_1)
 2. [Day 02](#cu_day02) 
 3. [Day 03](#cu_day03) 
 4. [Day 04](#cu_day04) 
@@ -393,7 +393,7 @@ As per your shared list, the total cost of the project is **₹3245**, including
   
 </p>
 
-### Day_1 ✅ <a name="cu_day01"></a>
+### Day_1 ✅ Taguchi_1 <a name="cu_day01"></a>
 ```yaml
     voltave: 9 V (When amp=0.00 ---> +- circuit not complete)
     Current: 0.1 amp (5.4 V) ---> +- circuit complete (During the process)
