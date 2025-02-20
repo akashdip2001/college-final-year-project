@@ -272,7 +272,7 @@ This process ensures that nickel from the anode dissolves into the solution and 
   
 </p>
 
-### Day_1* ✅ <a name="cu_day01"></a>
+### Day_1 ✅ <a name="cu_day01"></a>
 ```yaml
     voltave: 9 V (When amp=0.00 ---> +- circuit not complete)
     Current: 0.1 amp (5.4 V) ---> +- circuit complete (During the process)
@@ -282,9 +282,9 @@ This process ensures that nickel from the anode dissolves into the solution and 
 
     initial weight: 0.336 g (⚠️ before acid cleaning)
     final weight: 0.337 g
-
-* Just Test the System
 ```
+
+
 
 </br>
 </br>
