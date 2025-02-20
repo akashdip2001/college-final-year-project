@@ -1,6 +1,5 @@
-<img align="right" alt="python_logo" width="550" src="img/Day_3 (3).JPG"> 
+<img align="right" alt="power supply box" width="640" src="img/Day_3 (3).JPG"> 
 
----
 <!--
 ### **Cathode (Negative)**: Mild steel
 ### [**Cathode (Negative)**: Copper](#Cathode_Copper)
@@ -203,109 +202,6 @@ This process ensures that nickel from the anode dissolves into the solution and 
 ![](img/colour_line.png)
 
 </details>
-   
-# Using Copper as a Cathode <a name="Cathode_Copper"></a>  
-## Contents
-
-0. [Day 00](#cu_day00) 🌀 successful
-1. [Day 01](#cu_day01) ✅ successful
-2. [Day 02](#cu_day02) 
-3. [Day 03](#cu_day03) 
-4. [Day 04](#cu_day04) 
-5. [Day 05](#cu_day05) 
-6. [Day 06](#cu_day06)
-7. [Day 06](#cu_day07)
-8. [Day 06](#cu_day08)
-
----
-
-### **Setup**  
-- **Cathode (Negative)**: Copper 
-- **Anode (Positive)**: Nickel  
-- **Electrolyte**: NiSO₄ (6g/lit) + Oxalic Acid (2g/lit) in distilled water  
-
----
-
----
-
-### - Cathode - Copper (Width 10mm) 
-    clean - N/5 H2So4
-### - Anode - Nikhil
-### -  Time - 1h
-
----
-
-### Day_0* 🌀 <a name="cu_day00"></a>
-```yaml
-    voltave: 9 V (When amp=0.00 ---> +- circuit not complete)
-    Current: 0.2 amp (8.2 V) ---> +- circuit complete (During the process)
-    Electrolyte: NiSo4       - 2 gram/l (6/5 g/l)
-                 Oxalic acid - 2 gram/l (10/5)
-    200 ml of: Distilled Water
-
-    initial weight: 0.350 g (⚠️ before acid cleaning)
-    final weight: 0.367 g
-
-* Just Test the System
-
-```
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9babe2c4-aa37-41a1-bef7-c81f3219a96a" alt="Image 1" width="45%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/dc74407f-f85a-498f-bcbe-1d90c7ac6530" alt="Image 2" width="45%" style="margin-left: 10px;"/>
-</p>
-
-<details>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f0c029d7-dea9-4994-aef0-cfba1381863e" alt="Image 1" width="45%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/a63a8203-f6fa-4ea9-8ab5-f67d7d4004eb" alt="Image 2" width="45%" style="margin-left: 10px;"/>
-</p>
-</details>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d2c8050a-d216-4286-8071-73cd3edc5e77" alt="Image 1" width="45%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/4bf4a1c1-d9d6-4d2d-b661-b76843327750" alt="Image 2" width="45%" style="margin-left: 10px;"/>
-</p>
-<p align="center">
-   
-  ![IMG20250219163930](https://github.com/user-attachments/assets/23eb8a8b-1d8f-40c6-ad6f-36e6c9b69393)
-  
-  https://github.com/user-attachments/assets/d221fe5c-f915-406b-87ce-fbbe1aa765b1
-  
-</p>
-
-### Day_1 ✅ <a name="cu_day01"></a>
-```yaml
-    voltave: 9 V (When amp=0.00 ---> +- circuit not complete)
-    Current: 0.1 amp (5.4 V) ---> +- circuit complete (During the process)
-    Electrolyte: NiSo4       - 0.41 gram/200ml
-                 Oxalic acid - 0.41 gram/200ml
-    200 ml of: Distilled Water
-
-    initial weight: 0.336 g (⚠️ before acid cleaning)
-    final weight: 0.337 g
-```
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1952aada-0c0b-418d-804d-0f4da65babec" alt="Image 1" width="45%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/0d18caa6-1046-4088-a0aa-eaffb15ac30e" alt="Image 2" width="45%" style="margin-left: 10px;"/>
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a7d70785-802b-456a-8025-9de7df3eddab" alt="Image 1" width="45%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/35bc926f-0447-428e-8417-ed9c1f1ddf55" alt="Image 2" width="45%" style="margin-left: 10px;"/>
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/38eadd87-3a44-42a0-849c-a7558c218061" alt="Image 1" width="55%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/b00ea963-a56e-4ea6-94a2-2621c8557d23" alt="Image 2" width="41%" style="margin-left: 10px;"/>
-</p>
-
-https://github.com/user-attachments/assets/a2a4e421-c7ed-4342-9574-adb9b5166d87
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c8622096-bba4-4ec1-b0b4-c5e4941f84ac" alt="Image 1" width="50%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/9c56a15a-e79f-4c2f-8fbd-3edf7821a3ce" alt="Image 2" width="43%" style="margin-left: 10px;"/>
-</p>
-
-</br>
-</br>
-
 <details>	
  <summary><b>Circuit Block Diagram & Explane 🛰️🚀</b></summary><br>
 
@@ -427,3 +323,106 @@ As per your shared list, the total cost of the project is **₹3245**, including
 🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️
 
 </details>
+
+   
+# Copper as a Cathode <a name="Cathode_Copper"></a>  
+## Contents
+
+0. [Day 00](#cu_day00) 🌀 successful
+1. [Day 01](#cu_day01) ✅ successful
+2. [Day 02](#cu_day02) 
+3. [Day 03](#cu_day03) 
+4. [Day 04](#cu_day04) 
+5. [Day 05](#cu_day05) 
+6. [Day 06](#cu_day06)
+7. [Day 06](#cu_day07)
+8. [Day 06](#cu_day08)
+
+---
+
+### **Setup**  
+- **Cathode (Negative)**: Copper 
+- **Anode (Positive)**: Nickel  
+- **Electrolyte**: NiSO₄ (6g/lit) + Oxalic Acid (2g/lit) in distilled water  
+
+---
+
+---
+
+### - Cathode - Copper (Width 10mm) 
+    clean - N/5 H2So4
+### - Anode - Nikhil
+### -  Time - 1h
+
+---
+
+### Day_0* 🌀 <a name="cu_day00"></a>
+```yaml
+    voltave: 9 V (When amp=0.00 ---> +- circuit not complete)
+    Current: 0.2 amp (8.2 V) ---> +- circuit complete (During the process)
+    Electrolyte: NiSo4       - 2 gram/l (6/5 g/l)
+                 Oxalic acid - 2 gram/l (10/5)
+    200 ml of: Distilled Water
+
+    initial weight: 0.350 g (⚠️ before acid cleaning)
+    final weight: 0.367 g
+
+* Just Test the System
+
+```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9babe2c4-aa37-41a1-bef7-c81f3219a96a" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/dc74407f-f85a-498f-bcbe-1d90c7ac6530" alt="Image 2" width="45%" style="margin-left: 10px;"/>
+</p>
+
+<details>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f0c029d7-dea9-4994-aef0-cfba1381863e" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/a63a8203-f6fa-4ea9-8ab5-f67d7d4004eb" alt="Image 2" width="45%" style="margin-left: 10px;"/>
+</p>
+</details>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2c8050a-d216-4286-8071-73cd3edc5e77" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/4bf4a1c1-d9d6-4d2d-b661-b76843327750" alt="Image 2" width="45%" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+   
+  ![IMG20250219163930](https://github.com/user-attachments/assets/23eb8a8b-1d8f-40c6-ad6f-36e6c9b69393)
+  
+  https://github.com/user-attachments/assets/d221fe5c-f915-406b-87ce-fbbe1aa765b1
+  
+</p>
+
+### Day_1 ✅ <a name="cu_day01"></a>
+```yaml
+    voltave: 9 V (When amp=0.00 ---> +- circuit not complete)
+    Current: 0.1 amp (5.4 V) ---> +- circuit complete (During the process)
+    Electrolyte: NiSo4       - 0.41 gram/200ml
+                 Oxalic acid - 0.41 gram/200ml
+    200 ml of: Distilled Water
+
+    initial weight: 0.336 g (⚠️ before acid cleaning)
+    final weight: 0.337 g
+```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1952aada-0c0b-418d-804d-0f4da65babec" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/0d18caa6-1046-4088-a0aa-eaffb15ac30e" alt="Image 2" width="45%" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7d70785-802b-456a-8025-9de7df3eddab" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/35bc926f-0447-428e-8417-ed9c1f1ddf55" alt="Image 2" width="45%" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38eadd87-3a44-42a0-849c-a7558c218061" alt="Image 1" width="55%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/b00ea963-a56e-4ea6-94a2-2621c8557d23" alt="Image 2" width="41%" style="margin-left: 10px;"/>
+</p>
+
+https://github.com/user-attachments/assets/a2a4e421-c7ed-4342-9574-adb9b5166d87
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c8622096-bba4-4ec1-b0b4-c5e4941f84ac" alt="Image 1" width="50%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/9c56a15a-e79f-4c2f-8fbd-3edf7821a3ce" alt="Image 2" width="43%" style="margin-left: 10px;"/>
+</p>
+
+</br>
+</br>
