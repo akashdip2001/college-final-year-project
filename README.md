@@ -1,4 +1,4 @@
-<img align="right" alt="power supply box" width="640" src="img/Day_3 (3).JPG"> 
+<img align="right" alt="power supply box" width="600" src="img/Day_3 (3).JPG"> 
 
 <!--
 ### **Cathode (Negative)**: Mild steel
