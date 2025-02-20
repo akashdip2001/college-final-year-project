@@ -283,17 +283,25 @@ This process ensures that nickel from the anode dissolves into the solution and 
     initial weight: 0.336 g (⚠️ before acid cleaning)
     final weight: 0.337 g
 ```
-![IMG_2830](https://github.com/user-attachments/assets/1952aada-0c0b-418d-804d-0f4da65babec)
-![IMG_2831](https://github.com/user-attachments/assets/0d18caa6-1046-4088-a0aa-eaffb15ac30e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1952aada-0c0b-418d-804d-0f4da65babec" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/0d18caa6-1046-4088-a0aa-eaffb15ac30e" alt="Image 2" width="45%" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7d70785-802b-456a-8025-9de7df3eddab" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/35bc926f-0447-428e-8417-ed9c1f1ddf55" alt="Image 2" width="45%" style="margin-left: 10px;"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38eadd87-3a44-42a0-849c-a7558c218061" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/b00ea963-a56e-4ea6-94a2-2621c8557d23" alt="Image 2" width="45%" style="margin-left: 10px;"/>
+</p>
 
-![IMG_2834](https://github.com/user-attachments/assets/a7d70785-802b-456a-8025-9de7df3eddab)
-![IMG_2835](https://github.com/user-attachments/assets/35bc926f-0447-428e-8417-ed9c1f1ddf55)
+https://github.com/user-attachments/assets/a2a4e421-c7ed-4342-9574-adb9b5166d87
 
-![IMG_2836](https://github.com/user-attachments/assets/38eadd87-3a44-42a0-849c-a7558c218061)
-![IMG_2839](https://github.com/user-attachments/assets/b00ea963-a56e-4ea6-94a2-2621c8557d23)
-
-![IMG_2840](https://github.com/user-attachments/assets/c8622096-bba4-4ec1-b0b4-c5e4941f84ac)
-![IMG_2841](https://github.com/user-attachments/assets/9c56a15a-e79f-4c2f-8fbd-3edf7821a3ce)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c8622096-bba4-4ec1-b0b4-c5e4941f84ac" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/9c56a15a-e79f-4c2f-8fbd-3edf7821a3ce" alt="Image 2" width="45%" style="margin-left: 10px;"/>
+</p>
 
 </br>
 </br>
