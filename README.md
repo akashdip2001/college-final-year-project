@@ -333,6 +333,12 @@ This process ensures that nickel from the anode dissolves into the solution and 
 
 ### Total Cost Breakdown:  
 As per your shared list, the total cost of the project is **₹3245**, including components and repair expenses.  
+
+---
+
+# Alternate Circuit
+
+https://github.com/user-attachments/assets/6a481bc7-f602-4173-9d15-df8144aa25de
     
 🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️🚀🚀🚀🛰️🛰️🛰️🛩️🛩️🛩️✈️✈️✈️
 
