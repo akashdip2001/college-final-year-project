@@ -223,14 +223,19 @@ This process ensures that nickel from the anode dissolves into the solution and 
 
 ### Project Explanation:  
 
+https://github.com/user-attachments/assets/23e7ed81-ac93-48a3-a43e-8cd138cebd34
+
 **Input Power:**
 1. The circuit starts with an AC mains input of **230V at 50Hz (Indian frequency)**.
 2. The input is connected to a **transformer** (rated for 230V to the desired secondary voltage and 1.5A capacity).  
    - This step-down transformer reduces the voltage to a manageable level (as per your circuit design).  
 
 ---
+![powerSupply (1)](https://github.com/user-attachments/assets/ce51721e-c143-4cb3-997e-a8593c4d5aae)
+![powerSupply (3)](https://github.com/user-attachments/assets/edee84d4-9eef-4ef1-b90c-00a30bd90d70)
+![powerSupply (2)](https://github.com/user-attachments/assets/aa7aaf62-3a21-4960-b7e4-1d61de96f6e7)
 
-https://github.com/user-attachments/assets/d2b7894d-c69e-4848-a872-b12ee831b03c
+https://github.com/user-attachments/assets/46bedf4e-fc17-4426-94a9-905563ad5ae5
 
 **Rectification Stage:**
 3. The reduced AC voltage from the transformer is fed into a **full-wave rectifier circuit**, which is built using four **6A4 diodes** in a bridge configuration.  
