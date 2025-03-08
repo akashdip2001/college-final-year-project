@@ -230,6 +230,8 @@ This process ensures that nickel from the anode dissolves into the solution and 
 
 ---
 
+https://github.com/user-attachments/assets/d2b7894d-c69e-4848-a872-b12ee831b03c
+
 **Rectification Stage:**
 3. The reduced AC voltage from the transformer is fed into a **full-wave rectifier circuit**, which is built using four **6A4 diodes** in a bridge configuration.  
    - The rectifier converts AC to pulsating DC.  
