@@ -1,6 +1,8 @@
 # College-final-year-project
 AC to DC voltage &amp; current controller, electronic circuit
 
+<img align="center" alt="power supply" width="100%" src="https://github.com/akashdip2001/college-final-year-project-lock/blob/main/img/Day_3%20(3).JPG">
+
 ### Project Explanation:  
 
 <p align="center">
