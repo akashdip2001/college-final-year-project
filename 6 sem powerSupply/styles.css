@@ -1,0 +1,316 @@
+/* Preloader Styles */
+#preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.loader {
+  text-align: center;
+  color: #fff;
+}
+
+.power-icon {
+  width: 50px;
+  height: 50px;
+  border: 5px solid #fff;
+  border-radius: 50%;
+  border-top: 5px solid transparent;
+  animation: spin 1s linear infinite;
+}
+
+.loader p {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+}
+
+/* Keyframes for spinning animation */
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Add this style to hide the preloader once the page is loaded */
+body.loaded #preloader {
+  display: none;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #fff;
+  background-color: #333;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, 0.7);
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+nav .logo {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  margin: 5px;
+  padding: 26px;
+}
+
+nav ul li {
+  margin-left: 1rem;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+}
+
+nav ul li a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Video Background Styling */
+.video-background {
+  position: relative;
+  top: -105px;
+  width: 100%;
+  height: 58vh;
+  overflow: hidden;
+}
+
+.video-wrapper {
+  position: absolute;
+  top: 162px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+video,
+iframe {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.video-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.top-video {
+  padding: 0;
+  height: 455px;
+}
+
+/* About Section Styling */
+#about {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 1rem 2rem;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  max-width: 1200px; /* Adjust the max-width as needed */
+  width: 100%;
+}
+
+.cost-info {
+  flex: 1;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.cost-info ol {
+  padding-left: 1.5rem;
+}
+
+.slider {
+  position: relative;
+  max-width: 800px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+  min-width: 100%;
+  box-sizing: border-box;
+}
+
+iframe {
+  width: 100%;
+  height: 450px; /* Adjust the height as needed */
+  border: none;
+}
+
+button {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 100;
+}
+
+.prev {
+  left: 5px;
+}
+
+.next {
+  right: 25px;
+}
+
+.slider-info {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .slider iframe {
+    height: 300px; /* Adjust for smaller screens */
+  }
+
+  .video-background {
+    position: relative;
+    top: -155px;
+    width: 100%;
+    height: 52vh;
+    overflow: hidden;
+}
+
+.top-video {
+  padding: 0;
+  height: 305px;
+}
+}
+
+
+@media (max-width: 480px) {
+  .slider iframe {
+    height: 200px; /* Adjust for very small screens */
+  }
+
+  .video-background {
+    position: relative;
+    top: -154px;
+    width: 100%;
+    height: 52vh;
+    overflow: hidden;
+}
+
+.top-video {
+  padding: 0;
+  height: 305px;
+}
+}
+
+/* Gallery Section Styling */
+#gallery {
+  padding: 2rem;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.gallery img {
+  width: calc(33% - 1rem);
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+/* Footer Styling */
+footer {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 1rem;
+  text-align: center;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 738px){
+
+  .gallery img {
+    width: calc(50% - 1rem);
+  }
+}
+
+@media (max-width: 480px){
+
+  .gallery img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 375px){
+  .video-background{
+    top: -180px;
+    height: 69vh;
+  }
+  .cost-info{
+    padding-top: 30px;
+  }
+}
+
+@media (max-width: 380px) {
+.slider {
+  margin: none;
+}
+}
+
+
