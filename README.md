@@ -173,6 +173,6 @@ https://github.com/user-attachments/assets/6a481bc7-f602-4173-9d15-df8144aa25de
 ## ⭐ Data & Result ⭐
 </div>
 
-# This is not the full repo --> This is a small part of our project, actual data is in a Provatye repo 🔐 [link](https://github.com/akashdip2001/college-final-year-project-lock/blob/main/README.md)
+# This is not the full repo --> This is a small part of our project, actual data is in a Private repo 🔐 [link](https://github.com/akashdip2001/college-final-year-project-lock/blob/main/README.md)
 
 ![002](https://github.com/user-attachments/assets/da4c8753-77ce-4fd8-8e4a-b444804193d6)
