@@ -17,7 +17,8 @@ AC to DC voltage &amp; current controller, electronic circuit
   </br>
 </p>
 
-https://github.com/user-attachments/assets/46bedf4e-fc17-4426-94a9-905563ad5ae5
+https://github.com/user-attachments/assets/46dd8667-5b26-4def-98d9-c782ca856aed
+
 
 **Input Power:**
 1. The circuit starts with an AC mains input of **230V at 50Hz (Indian frequency)**.
@@ -26,7 +27,7 @@ https://github.com/user-attachments/assets/46bedf4e-fc17-4426-94a9-905563ad5ae5
 
 ---
 
-https://github.com/user-attachments/assets/000175be-9e58-4870-9e30-905f1b571046
+https://github.com/user-attachments/assets/54c876d5-d65f-4f25-b2e3-50d7e8fe2ed1
 
 **Rectification Stage:**
 3. The reduced AC voltage from the transformer is fed into a **full-wave rectifier circuit**, which is built using four **6A4 diodes** in a bridge configuration.  
