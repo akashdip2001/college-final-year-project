@@ -1,19 +1,19 @@
 # College-final-year-project
 AC to DC voltage &amp; current controller, electronic circuit
 
-<img align="center" alt="power supply" width="100%" src="https://github.com/akashdip2001/college-final-year-project-lock/blob/main/img/Day_3%20(3).JPG">
+<img align="center" alt="power supply" width="100%" src="img/Day_3 (3).jpeg">
 
 ### Project Explanation:  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce51721e-c143-4cb3-997e-a8593c4d5aae" alt="Image 1" width="46%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/edee84d4-9eef-4ef1-b90c-00a30bd90d70" alt="Image 2" width="46%" style="margin-left: 10px;"/>
+  <img src="img/420585646-ce51721e-c143-4cb3-997e-a8593c4d5aae.jpg" alt="Image 1" width="46%" style="margin-right: 10px;"/>
+  <img src="img/420585657-edee84d4-9eef-4ef1-b90c-00a30bd90d70.jpg" alt="Image 2" width="46%" style="margin-left: 10px;"/>
   </br>
-  <img src="https://github.com/user-attachments/assets/aa7aaf62-3a21-4960-b7e4-1d61de96f6e7" alt="Image 1" width="59%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/d817fe35-f973-400e-8ee7-28f1d8b26b1a" alt="Image 2" width="33%" style="margin-left: 10px;"/>
+  <img src="img/420585663-aa7aaf62-3a21-4960-b7e4-1d61de96f6e7.jpg" alt="Image 1" width="59%" style="margin-right: 10px;"/>
+  <img src="img/427209849-d817fe35-f973-400e-8ee7-28f1d8b26b1a.jpg" alt="Image 2" width="33%" style="margin-left: 10px;"/>
   </br>
-  <img src="https://github.com/user-attachments/assets/5fd97c4f-7415-46dc-8982-9924256a78c7" alt="Image 1" width="52.5%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/4b4111c5-0dcb-404a-9017-11a3c0eb603f" alt="Image 2" width="39.5%" style="margin-left: 10px;"/>
+  <img src="img/427209975-5fd97c4f-7415-46dc-8982-9924256a78c7.jpg" alt="Image 1" width="52.5%" style="margin-right: 10px;"/>
+  <img src="img/427210552-4b4111c5-0dcb-404a-9017-11a3c0eb603f.jpg" alt="Image 2" width="39.5%" style="margin-left: 10px;"/>
   </br>
 </p>
 
@@ -132,7 +132,7 @@ https://github.com/user-attachments/assets/000175be-9e58-4870-9e30-905f1b571046
 ### Total Cost Breakdown:  
 As per your shared list, the total cost of the project is **₹3245**, including components and repair expenses. [Learn more](https://college-final-year-project.netlify.app/)
 
-![IMG_5137](https://github.com/user-attachments/assets/f3f10e1e-accc-4160-8502-3710beded13a)
+![IMG_5137](img/416108745-f3f10e1e-accc-4160-8502-3710beded13a.jpeg)
 
 
 <div style='display:flex; align-items:center; gap: 30px;' align='center'>
@@ -141,29 +141,29 @@ As per your shared list, the total cost of the project is **₹3245**, including
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/315dab46-ac37-4b29-8788-19aad9768e5d" alt="Image 1" width="45%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/e91bcefa-8744-40a2-a793-f8c5cf71e4ad" alt="Image 2" width="45%" style="margin-left: 10px;"/>
+  <img src="img/427202737-315dab46-ac37-4b29-8788-19aad9768e5d.jpg" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="img/427202612-e91bcefa-8744-40a2-a793-f8c5cf71e4ad.jpg" alt="Image 2" width="45%" style="margin-left: 10px;"/>
   </br>
-  <img src="https://github.com/user-attachments/assets/095e444a-4207-4657-865e-f9c2176fe043" alt="Image 1" width="45%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/251fd80d-a1f1-4f0c-ab09-1ca3f4650ef0" alt="Image 2" width="45%" style="margin-left: 10px;"/>
+  <img src="img/427202672-095e444a-4207-4657-865e-f9c2176fe043.jpg" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="img/427202802-251fd80d-a1f1-4f0c-ab09-1ca3f4650ef0.jpg" alt="Image 2" width="45%" style="margin-left: 10px;"/>
   </br>
-  <img src="https://github.com/user-attachments/assets/2348bcf1-4032-46fb-b775-de3435e60bc2" alt="Image 1" width="45%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/19b84d16-55da-4cc6-98f3-56b391a1d635" alt="Image 2" width="45%" style="margin-left: 10px;"/>
+  <img src="img/427202878-2348bcf1-4032-46fb-b775-de3435e60bc2.jpg" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="img/427202923-19b84d16-55da-4cc6-98f3-56b391a1d635.jpg" alt="Image 2" width="45%" style="margin-left: 10px;"/>
   </br>
-  <img src="https://github.com/user-attachments/assets/4ca34ca0-601d-4b53-bf86-76944c04b123" alt="Image 1" width="45%" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/17fcc9fa-0eaf-40d7-8155-30d04730a748" alt="Image 2" width="45%" style="margin-left: 10px;"/>
+  <img src="img/427202312-4ca34ca0-601d-4b53-bf86-76944c04b123.jpg" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="img/427202364-17fcc9fa-0eaf-40d7-8155-30d04730a748.jpg" alt="Image 2" width="45%" style="margin-left: 10px;"/>
   </br>
 </p>
 
 ## after using 9V 4 amp, this is happns
 
-![resistors](https://github.com/user-attachments/assets/daa643e7-bf54-4855-9d06-89380113a25d)
+![resistors](img/423094084-daa643e7-bf54-4855-9d06-89380113a25d.jpg)
 
 ---
 
 # Alternate Circuit
 
-https://github.com/user-attachments/assets/6a481bc7-f602-4173-9d15-df8144aa25de
+
 
 ---
 
@@ -177,4 +177,4 @@ https://github.com/user-attachments/assets/6a481bc7-f602-4173-9d15-df8144aa25de
 
 # This is not the full repo --> This is a small part of our project, actual data is in a Private repo 🔐 [link](https://github.com/akashdip2001/college-final-year-project-lock/blob/main/README.md)
 
-![002](https://github.com/user-attachments/assets/da4c8753-77ce-4fd8-8e4a-b444804193d6)
+<img src="img/428280263-da4c8753-77ce-4fd8-8e4a-b444804193d6.png">
