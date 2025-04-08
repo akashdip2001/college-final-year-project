@@ -2,8 +2,18 @@
 AC to DC voltage &amp; current controller, electronic circuit
 
 <img align="center" alt="power supply" width="100%" src="img/Day_3 (3).jpeg">
+</br>
+<p align="center">
+  <img src="img/Screenshot_2025-04-08-11-25-31-14_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" alt="Image 1" width="46%" style="margin-right: 10px;"/>
+  <img src="img/IMG_20250408_112756.jpg" alt="Image 2" width="46%" style="margin-left: 10px;"/>
+</p>
 
-### Project Explanation:  
+`*** these above two images is the part of original private repository.`
+</br>
+
+---
+
+### Project Setup:  completely created and designed by me at Home.
 
 <p align="center">
   <img src="img/420585646-ce51721e-c143-4cb3-997e-a8593c4d5aae.jpg" alt="Image 1" width="46%" style="margin-right: 10px;"/>
