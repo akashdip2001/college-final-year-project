@@ -78,8 +78,10 @@ https://github.com/user-attachments/assets/54c876d5-d65f-4f25-b2e3-50d7e8fe2ed1
 9. **LED indicators** are used for status indication.  
 10. **Display module** shows the output voltage and current for monitoring purposes.  
 
- 
 ### ✅ **Control and Switching System**
+
+[<img align="right" alt="GitHub Foundations exam logo" width="35%" src="img/pi.jpg">]() 
+ 
 1. **Potentiometers (10kΩ)**:  
    - **Purpose**: To regulate voltage and current for the electroplating process.  
    - **Connections**:  
@@ -94,9 +96,14 @@ https://github.com/user-attachments/assets/54c876d5-d65f-4f25-b2e3-50d7e8fe2ed1
    - **Purpose**: Controls the output probes (cathode and anode). It allows you to start or stop the electroplating process without turning off the whole system.  
    - **Connection**: Placed on the output side after the buck converter, controlling power to the **alligator clips**.  
 
+### ⚠️ `Try to controll Wirelessly in Local Area Network (LAN) using Raspberry pi`
+
 ---
 
 ### **Display System**
+
+[<img align="right" alt="GitHub Foundations exam logo" width="35%" src="img/display.jpg">](https://github.com/akashdip2001/college-project-6th-sem-Electroplating) 
+
 4. **Digital Display (Voltmeter + Ammeter)**:  
    - **Purpose**: Tracks the real-time voltage and current supplied to the electrolyte solution during the electroplating process.  
    - **Connections**:  
@@ -120,7 +127,10 @@ https://github.com/user-attachments/assets/54c876d5-d65f-4f25-b2e3-50d7e8fe2ed1
 
 ---
 
+[<img align="right" alt="GitHub Foundations exam logo" width="20%" src="img/work.png">]()
+
 ### Electroplating Process Details  
+
 - **Electrolyte Solution**:  
   - Nickel Sulfate (**NiSO₄**) - 10 g/L.  
   - Oxalic Acid - 10 g/L.  
@@ -194,3 +204,19 @@ https://github.com/user-attachments/assets/3770be8d-7837-4679-9d37-4d89e2f6ec3e
 # This is not the full repo --> This is a small part of our project, actual data is in a Private repo 🔐 [link](https://github.com/akashdip2001/college-final-year-project-lock/blob/main/README.md)
 
 <img src="img/428280263-da4c8753-77ce-4fd8-8e4a-b444804193d6.png">
+
+---
+
+</br>
+</br>
+
+# `Next Work` --> Improving the properties of Ni/nano-TiO2 composite electrodeposits by optimising the deposition condition
+
+</br>
+
+## setup
+
+<p align="center">
+  <img src="img/next setup (1).jpg" alt="Image 1" width="35%" style="margin-right: 5px;"/>
+  <img src="img/next setup (2).jpg" alt="Image 2" width="62%" style="margin-left: 5px;"/>
+</p>
