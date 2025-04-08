@@ -164,7 +164,7 @@ As per your shared list, the total cost of the project is **₹3245**, including
 
 # Alternate Circuit
 
-
+https://github.com/user-attachments/assets/3770be8d-7837-4679-9d37-4d89e2f6ec3e
 
 ---
 
