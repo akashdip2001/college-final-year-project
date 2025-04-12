@@ -220,6 +220,8 @@ https://github.com/user-attachments/assets/fb9e0416-20f2-4cad-ac35-4c4dd1ecb953
 
 [![image-J](https://github.com/user-attachments/assets/171001f0-52e8-4441-ab3f-eed4a9bb3664)](https://youtu.be/AAROcG0miC8)
 
+## Repo [link](https://github.com/akashdip2001/college-final-year-project-lock/tree/main/surface%20free%20energy) 🔐
+
 ---
 
 </br>
