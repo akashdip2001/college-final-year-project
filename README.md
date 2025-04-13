@@ -220,7 +220,9 @@ https://github.com/user-attachments/assets/fb9e0416-20f2-4cad-ac35-4c4dd1ecb953
 
 [![image-J](https://github.com/user-attachments/assets/171001f0-52e8-4441-ab3f-eed4a9bb3664)](https://youtu.be/AAROcG0miC8)
 
-## Repo [link](https://github.com/akashdip2001/college-final-year-project-lock/tree/main/surface%20free%20energy) 🔐
+## Repo [link](https://github.com/akashdip2001/college-final-year-project-lock/tree/main/surface%20free%20energy) 🔐 with **Fix** `drop_analysis plugin error`
+
+![Screenshot (269)](https://github.com/user-attachments/assets/6cfec4b4-34db-4122-82e4-cb5e3c6c6281)
 
 ---
 
@@ -237,3 +239,7 @@ https://github.com/user-attachments/assets/fb9e0416-20f2-4cad-ac35-4c4dd1ecb953
   <img src="img/next setup (1).jpg" alt="Image 1" width="35%" style="margin-right: 5px;"/>
   <img src="img/next setup (2).jpg" alt="Image 2" width="62%" style="margin-left: 5px;"/>
 </p>
+
+---
+
+# This is not the full repo --> This is a small part of our project, actual data is in a Private repo 🔐 [link](https://github.com/akashdip2001/college-final-year-project-lock/blob/main/README.md)
