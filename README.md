@@ -80,7 +80,7 @@ https://github.com/user-attachments/assets/54c876d5-d65f-4f25-b2e3-50d7e8fe2ed1
 
 ### ✅ **Control and Switching System**
 
-[<img align="right" alt="GitHub Foundations exam logo" width="35%" src="img/pi.jpg">]() 
+[<img align="right" alt="pi poco w" width="35%" src="img/pi.jpg">]() 
  
 1. **Potentiometers (10kΩ)**:  
    - **Purpose**: To regulate voltage and current for the electroplating process.  
@@ -102,7 +102,7 @@ https://github.com/user-attachments/assets/54c876d5-d65f-4f25-b2e3-50d7e8fe2ed1
 
 ### **Display System**
 
-[<img align="right" alt="GitHub Foundations exam logo" width="35%" src="img/display.jpg">](https://github.com/akashdip2001/college-project-6th-sem-Electroplating) 
+[<img align="right" alt="LCD display for Voltage and current" width="35%" src="img/display.jpg">](https://github.com/akashdip2001/college-project-6th-sem-Electroplating) 
 
 4. **Digital Display (Voltmeter + Ammeter)**:  
    - **Purpose**: Tracks the real-time voltage and current supplied to the electrolyte solution during the electroplating process.  
@@ -127,7 +127,7 @@ https://github.com/user-attachments/assets/54c876d5-d65f-4f25-b2e3-50d7e8fe2ed1
 
 ---
 
-[<img align="right" alt="GitHub Foundations exam logo" width="20%" src="img/work.png">]()
+[<img align="right" alt="" width="20%" src="img/work.png">]()
 
 ### Electroplating Process Details  
 
