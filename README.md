@@ -218,6 +218,11 @@ https://github.com/user-attachments/assets/7386eab5-5a6f-4c28-ba64-5a22340d73b7
 
 https://github.com/user-attachments/assets/fb9e0416-20f2-4cad-ac35-4c4dd1ecb953
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac1d5c67-028b-48ff-b2c9-99d9abea14f1" alt="Image 1" width="55%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/db008c96-e0d5-4c1a-834e-b31ae0ca85a4" alt="Image 2" width="41%" style="margin-left: 10px;"/>
+</p>
+
 [![image-J](https://github.com/user-attachments/assets/171001f0-52e8-4441-ab3f-eed4a9bb3664)](https://youtu.be/AAROcG0miC8)
 
 ## Repo [link](https://github.com/akashdip2001/college-final-year-project-lock/tree/main/surface%20free%20energy) 🔐 with **Fix** `drop_analysis plugin error`
