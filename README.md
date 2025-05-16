@@ -283,6 +283,8 @@ We just taste the electrical system works correctly or not, so we just create th
 </br>
 </br>
 
+#### This is not the full repo --> This is a small part of our project, actual data is in a Private repo 🔐 link
+
 01. Creat the 100W Power Supply - [link](https://akashdip2001.github.io/college-final-year-project/6%20sem%20powerSupply/index.html)
 02. Taguchi analysis - [link](https://github.com/akashdip2001/college-final-year-project-lock/tree/main/data%20%26%20Result)
 03. 9 sample preparation - [link](https://github.com/akashdip2001/college-final-year-project-lock/blob/main/README.md)
