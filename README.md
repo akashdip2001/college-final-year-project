@@ -248,3 +248,32 @@ https://github.com/user-attachments/assets/fb9e0416-20f2-4cad-ac35-4c4dd1ecb953
 ---
 
 # This is not the full repo --> This is a small part of our project, actual data is in a Private repo 🔐 [link](https://github.com/akashdip2001/college-final-year-project-lock/blob/main/README.md)
+
+</br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/00ab58ea-71b7-4cbb-8652-b1a26227713c" alt="Image 1" width="48%" style="margin-right: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/af1524a3-c274-4523-8aba-a2d5b8d2ab7c" alt="Image 2" width="48%" style="margin-left: 5px;"/>
+</p>
+
+</br>
+</br>
+
+- This is the one and half hour electroplating process in the first 30 minutes we just normally electro coating on copper strip by Nikhil plate.
+- After 30 normal coating - we can add titanium oxide with her spinning glass road,
+- According to our paper this nickel can help the titanium atom to bind on copper. (We can observe this using an electron microscope).
+
+### Why we do ? 
+- Because titanium has good jaam resistance (antibacterial) property.
+
+### What we do Today?
+
+We just taste the electrical system works correctly or not, so we just create the solution with oxalic acid 4g/L then after dilute we can add titanium 2g/L. Then you just add a copper plate in the cathode and Nicole strip in the anode.
+
+</br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1a073e11-b598-416c-991b-15addfdba0ae" alt="Image 1" width="33%" style="margin-right: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/3b2aaa2b-7d26-4081-9d1e-bf53a77784d5" alt="Image 2" width="33%" style="margin-left: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/01f2ede9-7d4c-4147-ab7a-7a3ac3ae4d53" alt="Image 2" width="33%" style="margin-left: 5px;"/>
+</p>
