@@ -277,3 +277,17 @@ We just taste the electrical system works correctly or not, so we just create th
   <img src="https://github.com/user-attachments/assets/3b2aaa2b-7d26-4081-9d1e-bf53a77784d5" alt="Image 2" width="33%" style="margin-left: 5px;"/>
   <img src="https://github.com/user-attachments/assets/01f2ede9-7d4c-4147-ab7a-7a3ac3ae4d53" alt="Image 2" width="33%" style="margin-left: 5px;"/>
 </p>
+
+---
+
+</br>
+</br>
+
+01. Creat the 100W Power Supply - [link](https://akashdip2001.github.io/college-final-year-project/6%20sem%20powerSupply/index.html)
+02. Taguchi analysis - [link](https://github.com/akashdip2001/college-final-year-project-lock/tree/main/data%20%26%20Result)
+03. 9 sample preparation - [link](https://github.com/akashdip2001/college-final-year-project-lock/blob/main/README.md)
+04. Drope & analysis (using imageJs) for surface-free-energy - [link](https://github.com/akashdip2001/college-final-year-project-lock/tree/main/surface%20free%20energy)
+05. Find the `optimal value` from `Taguchi` `9 samples` in Excel - [link](https://github.com/akashdip2001/college-final-year-project-lock/tree/main/Project%2001/01%20work)
+06. Send to the sample to jadavpur university for Roughness test - [link](https://github.com/akashdip2001/college-final-year-project-lock/tree/main/Project%2001/02%20result)
+
+</br>
